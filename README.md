@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Powarox2159&color=348AF4&style=flat)
+![](https://komarev.com/ghpvc/?username=Powarox2159&color=348AF4&style=flat&label=Profile+Views)
 
 - 👋 Hi, I’m @Powarox2159
 - 👀 I’m interested in ...
