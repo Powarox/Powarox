@@ -8,7 +8,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Powarox&layout=compact)](https://github.com/Powarox2159/github-readme-stats)
+
+![Powa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Powarox2159&show_icons=true&theme=radical)
+
 
 <!---
 Powarox2159/Powarox2159 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
