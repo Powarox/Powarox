@@ -14,8 +14,25 @@
 
 
 
-## Full-stack
+# Projects
+## Front-End
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox2159&repo=Dataviz-Sncf&hide_border=true&theme=dark)](https://github.com/Powarox2159/Dataviz-Sncf)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox2159&repo=TodoList&hide_border=true&theme=dark)](https://github.com/Powarox2159/TodoList)
+
+## Back-End
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox2159&repo=Projet-BibliothequePHP&hide_border=true&theme=dark)](https://github.com/Powarox2159/Projet-BibliothequePHP)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox2159&repo=Projet-ProgrammationWeb&hide_border=true&theme=dark)](https://github.com/Powarox2159/Projet-ProgrammationWeb)
+
+## Full-Stack
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox2159&repo=SnowMan&hide_border=true&theme=dark)](https://github.com/Powarox2159/SnowMan)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox2159&repo=TradingCryptoBot&hide_border=true&theme=dark)](https://github.com/Powarox2159/TradingCryptoBot)
+
+## Mobile Appp
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox2159&repo=Fitup&hide_border=true&theme=dark)](https://github.com/Powarox2159/Fitup)
+
+## Libraries
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox2159&repo=robindev-metadata&hide_border=true&theme=dark)](https://github.com/Powarox2159/robindev-metadata)
+
 
 <!---
 Powarox2159/Powarox2159 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
