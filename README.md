@@ -30,7 +30,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox2159&repo=SnowMan&hide_border=true&theme=dark)](https://github.com/Powarox2159/SnowMan)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox2159&repo=TradingCryptoBot&hide_border=true&theme=dark)](https://github.com/Powarox2159/TradingCryptoBot)
 
-## Mobile Appp
+## Mobile App
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox2159&repo=Fitup&hide_border=true&theme=dark)](https://github.com/Powarox2159/Fitup)
 
 ## Libraries
@@ -42,9 +42,8 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-<!--- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) --->
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
+<!--- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) --->
 
 
 <!---
