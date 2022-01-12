@@ -37,6 +37,9 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox2159&repo=robindev-metadata&hide_border=true&theme=dark)](https://github.com/Powarox2159/robindev-metadata)
 
 
+# Achievements
+![Metrics](https://metrics.lecoq.io/Powarox2159?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FParis)
+
 
 # Technologies
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -47,7 +50,6 @@
 
 
 ![Metrics](https://metrics.lecoq.io/Powarox2159?template=classic&people=1&achievements=1&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FYekaterinburg)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Powarox2159&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
