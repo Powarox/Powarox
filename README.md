@@ -46,6 +46,11 @@
 <!--- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) --->
 
 
+![Metrics](https://metrics.lecoq.io/Powarox2159?template=classic&people=1&achievements=1&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FYekaterinburg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Powarox2159&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+
 <!---
 Powarox2159/Powarox2159 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
