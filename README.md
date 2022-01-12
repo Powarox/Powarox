@@ -38,7 +38,7 @@
 
 
 # Achievements
-![Metrics](https://metrics.lecoq.io/Powarox2159?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=B&achievements.secrets=true&achievements.display=compact&achievements.limit=10&config.timezone=Europe%2FParis)
+![Metrics](https://metrics.lecoq.io/Powarox2159?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=X&achievements.secrets=true&achievements.display=compact&achievements.limit=10&config.timezone=Europe%2FParis)
 
 
 # Technologies
