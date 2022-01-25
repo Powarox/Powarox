@@ -16,8 +16,6 @@
 	<img width="450em"/>
 </p>
 
-[![](https://tokei.rs/b1/github/Powarox2159/Dataviz-Sncf)]
-
 # Projects
 ## Front-End
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox2159&repo=Dataviz-Sncf&hide_border=true&theme=dark)](https://github.com/Powarox2159/Dataviz-Sncf)
@@ -62,4 +60,6 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Powarox2159&layout=compact)](https://github.com/Powarox2159/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPowarox2159%2FTradingCryptoBot&count_bg=%2379C83D&title_bg=%23555555&icon=vue-dot-js.svg&icon_color=%23348AF4&title=Project+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![](https://tokei.rs/b1/github/Powarox2159/Dataviz-Sncf)
 --->
