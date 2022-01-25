@@ -16,6 +16,7 @@
 	<img width="450em"/>
 </p>
 
+[![](https://tokei.rs/b1/github/Powarox2159/Dataviz-Sncf)]
 
 # Projects
 ## Front-End
