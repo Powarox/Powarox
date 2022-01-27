@@ -1,12 +1,15 @@
 
 # Presentation
 ![](https://komarev.com/ghpvc/?username=Powarox2159&style=flat&color=348AF4&label=Profile+Views)
-- 👋 Hi, I’m @Powarox2159
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Robin 
+- 👀 I’m interested in web development and blockchain technologies
+- 🌱 I’m currently learning VueJs
+- 💞️ I'm looking for a 4 to 6 month internship in web development to finish my master's degree
+
+<!--- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+--->
 
 # Overview
 <p align="center">
@@ -51,7 +54,7 @@
 <!---![Metrics](https://metrics.lecoq.io/Powarox2159?template=classic&people=1&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Europe%2FParis)--->
 
 
-
+<!--- --->
 
 <!---
 Powarox2159/Powarox2159 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
