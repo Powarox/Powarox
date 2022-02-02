@@ -23,7 +23,7 @@
 # Projects
 ## Front-End
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox2159&repo=Dataviz-Sncf&hide_border=true&theme=dark)](https://github.com/Powarox2159/Dataviz-Sncf)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox2159&repo=CryptoWallet&hide_border=true&theme=dark)](https://github.com/Powarox2159/CryptoWallet)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox2159&repo=Dataviz-Crypto&hide_border=true&theme=dark)](https://github.com/Powarox2159/Dataviz-Crypto)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox2159&repo=Dataviz-Twitter&hide_border=true&theme=dark)](https://github.com/Powarox2159/Dataviz-Twitter)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox2159&repo=TodoList&hide_border=true&theme=dark)](https://github.com/Powarox2159/TodoList)
 
