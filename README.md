@@ -29,7 +29,9 @@
 
 ## Back-End
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox2159&repo=Projet-BibliothequePHP&hide_border=true&theme=dark)](https://github.com/Powarox2159/Projet-BibliothequePHP)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox2159&repo=NodeJs-Server&hide_border=true&theme=dark)](https://github.com/Powarox2159/NodeJs-Server)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox2159&repo=Projet-ProgrammationWeb&hide_border=true&theme=dark)](https://github.com/Powarox2159/Projet-ProgrammationWeb)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox2159&repo=Exposition-Images&hide_border=true&theme=dark)](https://github.com/Powarox2159/Exposition-Images)
 
 ## Full-Stack
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox2159&repo=SnowMan&hide_border=true&theme=dark)](https://github.com/Powarox2159/SnowMan)
