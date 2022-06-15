@@ -1,10 +1,10 @@
 
 # Presentation
 ![](https://komarev.com/ghpvc/?username=Powarox&style=flat&color=348AF4&label=Profile+Views)
-- 👋 Hi, I’m Robin
+- 👋 Hi, I’m Robin a Front-End developer
 - 👀 I’m interested in web development and blockchain technologies
 - 🌱 I’m currently learning VueJs & Angular
-- 🌊️ I'm currently working at Sinay maritime as a front-end developer
+- 🌊️ I'm currently working at Sinay Maritime as a Front-End developer
 
 <!---
 - 💞️ I’m looking to collaborate on ...
@@ -21,19 +21,19 @@
 
 # Projects
 ## Front-End
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Dataviz-Sncf&hide_border=true&theme=dark)](https://github.com/Powarox/Dataviz-Sncf)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Dataviz-Crypto&hide_border=true&theme=dark)](https://github.com/Powarox/Dataviz-Crypto)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Dataviz-Twitter&hide_border=true&theme=dark)](https://github.com/Powarox/Dataviz-Twitter)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=TodoList&hide_border=true&theme=dark)](https://github.com/Powarox/TodoList)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Front-SncfDataviz&hide_border=true&theme=dark)](https://github.com/Powarox/Front-SncfDataviz)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Front-CryptoDataviz&hide_border=true&theme=dark)](https://github.com/Powarox/Front-CryptoDataviz)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Front-TwitterDataviz&hide_border=true&theme=dark)](https://github.com/Powarox/Front-TwitterDataviz)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Front-TodoList&hide_border=true&theme=dark)](https://github.com/Powarox/Front-TodoList)
 
 ## Back-End
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Projet-BibliothequePHP&hide_border=true&theme=dark)](https://github.com/Powarox/Projet-BibliothequePHP)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=NodeJs-Server&hide_border=true&theme=dark)](https://github.com/Powarox/NodeJs-Server)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Projet-ProgrammationWeb&hide_border=true&theme=dark)](https://github.com/Powarox/Projet-ProgrammationWeb)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Exposition-Images&hide_border=true&theme=dark)](https://github.com/Powarox/Exposition-Images)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Back-DriveFiles&hide_border=true&theme=dark)](https://github.com/Powarox/Back-DriveFiles)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Back-MetaFileReader&hide_border=true&theme=dark)](https://github.com/Powarox/Back-MetaFileReader)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Back-DrivePictures&hide_border=true&theme=dark)](https://github.com/Powarox/Back-DrivePictures)
 
 ## Full-Stack
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=SnowMan&hide_border=true&theme=dark)](https://github.com/Powarox/SnowMan)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Games-SnowMan&hide_border=true&theme=dark)](https://github.com/Powarox/Games-SnowMan)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=TradingCryptoBot&hide_border=true&theme=dark)](https://github.com/Powarox/TradingCryptoBot)
 
 ## Games
@@ -42,24 +42,27 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Games-Sokoban&hide_border=true&theme=dark)](https://github.com/Powarox/Games-Sokoban)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Games-TicTacToe&hide_border=true&theme=dark)](https://github.com/Powarox/Games-TicTacToe)
 
-
-## Mobile App
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Fitup&hide_border=true&theme=dark)](https://github.com/Powarox/Fitup)
-
 ## Libraries
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=robindev-metadata&hide_border=true&theme=dark)](https://github.com/Powarox/robindev-metadata)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Back-MetaLib&hide_border=true&theme=dark)](https://github.com/Powarox/Back-MetaLib)
 
+<!-- ## Mobile App
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Fitup&hide_border=true&theme=dark)](https://github.com/Powarox/Fitup) -->
 
 # Technologies
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Angular](https://img.shields.io/badge/angular-F05032?style=for-the-badge&logo=angular&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 <!--- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) --->
 
 
 # Achievements
 ![Metrics](https://metrics.lecoq.io/Powarox?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=X&achievements.secrets=true&achievements.display=compact&achievements.limit=10&config.timezone=Europe%2FParis)
+
+
+
+
 
 
 <!---![Metrics](https://metrics.lecoq.io/Powarox?template=classic&people=1&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Europe%2FParis)--->
