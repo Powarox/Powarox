@@ -19,6 +19,13 @@
 	<img width="450em"/>
 </p>
 
+<p align="center">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=Grafikart&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=Grafikart&include_all_commits=true&hide_border=true&theme=dark"/>
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grafikart&layout=compact&custom_title=Most used languages by Powarox&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
+	<img width="450em"/>
+</p>
+
 # Projects
 ## Front-End
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Dataviz-Sncf&hide_border=true&theme=dark)](https://github.com/Powarox/Dataviz-Sncf)
