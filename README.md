@@ -31,8 +31,9 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Back-MetaFileReader&hide_border=true&theme=dark)](https://github.com/Powarox/Back-MetaFileReader)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Back-DrivePictures&hide_border=true&theme=dark)](https://github.com/Powarox/Back-DrivePictures)
 
-<!-- ## Full-Stack -->
-<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=TradingCryptoBot&hide_border=true&theme=dark)](https://github.com/Powarox/TradingCryptoBot) -->
+## Applications
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=App-TradingCryptoBot&hide_border=true&theme=dark)](https://github.com/Powarox/App-TradingCryptoBot)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=App-TwitterExtraction&hide_border=true&theme=dark)](https://github.com/Powarox/App-TwitterExtraction)
 
 ## Games
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Games-ManiacShooter&hide_border=true&theme=dark)](https://github.com/Powarox/Games-ManiacShooter)
