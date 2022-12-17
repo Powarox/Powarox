@@ -6,25 +6,20 @@
 - 🌱 I’m currently learning VueJs & Angular
 - 🌊️ I'm currently working at Sinay Maritime as a Front-End developer
 
-<!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-
 # Overview
 <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=Powarox&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=Powarox&include_all_commits=true&hide_border=true&theme=dark"/>
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Powarox&layout=compact&custom_title=Most used languages by Powarox&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
-	<img width="450em"/>
+	<!-- <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Powarox&layout=compact&custom_title=Most used languages by Powarox&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide="> -->
 </p>
 
 # Projects
-## Template
+## Templates
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Template-Node-API&hide_border=true&theme=dark)](https://github.com/Powarox/Template-Node-API)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Template-VueJs-APP&hide_border=true&theme=dark)](https://github.com/Powarox/Template-VueJs-APP)
 
 ## Front-End
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Storybook&hide_border=true&theme=dark)](https://github.com/Powarox/Storybook)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Front-SncfDataviz&hide_border=true&theme=dark)](https://github.com/Powarox/Front-SncfDataviz)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Front-CryptoDataviz&hide_border=true&theme=dark)](https://github.com/Powarox/Front-CryptoDataviz)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Front-TwitterDataviz&hide_border=true&theme=dark)](https://github.com/Powarox/Front-TwitterDataviz)
@@ -37,7 +32,6 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Back-DrivePictures&hide_border=true&theme=dark)](https://github.com/Powarox/Back-DrivePictures)
 
 <!-- ## Full-Stack -->
-<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Games-SnowMan&hide_border=true&theme=dark)](https://github.com/Powarox/Games-SnowMan) -->
 <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=TradingCryptoBot&hide_border=true&theme=dark)](https://github.com/Powarox/TradingCryptoBot) -->
 
 ## Games
@@ -60,7 +54,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-<!--- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) --->
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 # Achievements
