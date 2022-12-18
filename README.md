@@ -17,6 +17,7 @@
 ## Templates
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Template-Node-API&hide_border=true&theme=dark)](https://github.com/Powarox/Template-Node-API)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Template-VueJs-APP&hide_border=true&theme=dark)](https://github.com/Powarox/Template-VueJs-APP)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Template-React-APP&hide_border=true&theme=dark)](https://github.com/Powarox/Template-React-APP)
 
 ## Front-End
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Storybook&hide_border=true&theme=dark)](https://github.com/Powarox/Storybook)
