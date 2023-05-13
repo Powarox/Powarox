@@ -18,6 +18,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Template-Node-API&hide_border=true&theme=dark)](https://github.com/Powarox/Template-Node-API)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Template-VueJs-APP&hide_border=true&theme=dark)](https://github.com/Powarox/Template-VueJs-APP)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Template-React-APP&hide_border=true&theme=dark)](https://github.com/Powarox/Template-React-APP)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Template-Nuxt-APP&hide_border=true&theme=dark)](https://github.com/Powarox/Template-Nuxt-APP)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Powarox&repo=Template-Angular-APP&hide_border=true&theme=dark)](https://github.com/Powarox/Template-Angular-APP)
 
 ## Front-End
